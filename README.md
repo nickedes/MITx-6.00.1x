@@ -1,4 +1,4 @@
 MITX-6.00.1x
 
-Solutions
+Solutions to the psets of this course.
 
