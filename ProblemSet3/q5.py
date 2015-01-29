@@ -74,4 +74,3 @@ def hangman(secretWord):
 				print "Oops! That letter is not in my word: "+str(getGuessedWord(secretWord, lettersGuessed))
 	if f==0 and i==8:
 		print "-------------\nSorry, you ran out of guesses. The word was "+str(secretWord)+". "						
-hangman('apple')		
